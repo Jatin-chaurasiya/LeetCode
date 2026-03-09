@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Jatin-chaurasiya/https-github.com-Jatin-chaurasiya-LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Jatin-chaurasiya/https-github.com-Jatin-chaurasiya-LeetCode/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Jatin-chaurasiya/https-github.com-Jatin-chaurasiya-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Jatin-chaurasiya/https-github.com-Jatin-chaurasiya-LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Hash Table
 |  |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Jatin-chaurasiya/https-github.com-Jatin-chaurasiya-LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Jatin-chaurasiya/https-github.com-Jatin-chaurasiya-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
