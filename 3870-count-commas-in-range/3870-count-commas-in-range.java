@@ -7,7 +7,7 @@ class Solution {
         for(int k=1; ;k++){
             int start = (int) Math.pow(10,3*k);
             if(start > n) break;
-            ans += (n - start + 1)* k;
+            ans += (n - start + 1);
         }
         return ans;
     }
