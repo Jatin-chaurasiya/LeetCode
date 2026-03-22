@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Jatin-chaurasiya/https-github.com-Jatin-chaurasiya-LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Jatin-chaurasiya/https-github.com-Jatin-chaurasiya-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jatin-chaurasiya/https-github.com-Jatin-chaurasiya-LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0560-subarray-sum-equals-k](https://github.com/Jatin-chaurasiya/https-github.com-Jatin-chaurasiya-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Jatin-chaurasiya/https-github.com-Jatin-chaurasiya-LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Jatin-chaurasiya/https-github.com-Jatin-chaurasiya-LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Hash Table
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Jatin-chaurasiya/https-github.com-Jatin-chaurasiya-LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jatin-chaurasiya/https-github.com-Jatin-chaurasiya-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/Jatin-chaurasiya/https-github.com-Jatin-chaurasiya-LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0560-subarray-sum-equals-k](https://github.com/Jatin-chaurasiya/https-github.com-Jatin-chaurasiya-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Jatin-chaurasiya/https-github.com-Jatin-chaurasiya-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Jatin-chaurasiya/https-github.com-Jatin-chaurasiya-LeetCode/tree/master/0713-subarray-product-less-than-k) |
 ## Union-Find
 |  |
