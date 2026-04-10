@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Jatin-chaurasiya/https-github.com-Jatin-chaurasiya-LeetCode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Jatin-chaurasiya/https-github.com-Jatin-chaurasiya-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Jatin-chaurasiya/https-github.com-Jatin-chaurasiya-LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Jatin-chaurasiya/https-github.com-Jatin-chaurasiya-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Jatin-chaurasiya/https-github.com-Jatin-chaurasiya-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jatin-chaurasiya/https-github.com-Jatin-chaurasiya-LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Jatin-chaurasiya/https-github.com-Jatin-chaurasiya-LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Jatin-chaurasiya/https-github.com-Jatin-chaurasiya-LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Jatin-chaurasiya/https-github.com-Jatin-chaurasiya-LeetCode/tree/master/0055-jump-game) |
 | [0096-unique-binary-search-trees](https://github.com/Jatin-chaurasiya/https-github.com-Jatin-chaurasiya-LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Jatin-chaurasiya/https-github.com-Jatin-chaurasiya-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Jatin-chaurasiya/https-github.com-Jatin-chaurasiya-LeetCode/tree/master/0152-maximum-product-subarray) |
 ## Monotonic Stack
 |  |
