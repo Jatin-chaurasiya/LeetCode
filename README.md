@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Jatin-chaurasiya/https-github.com-Jatin-chaurasiya-LeetCode/tree/master/0050-powx-n) |
 | [0096-unique-binary-search-trees](https://github.com/Jatin-chaurasiya/https-github.com-Jatin-chaurasiya-LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jatin-chaurasiya/https-github.com-Jatin-chaurasiya-LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0326-power-of-three](https://github.com/Jatin-chaurasiya/https-github.com-Jatin-chaurasiya-LeetCode/tree/master/0326-power-of-three) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Jatin-chaurasiya/https-github.com-Jatin-chaurasiya-LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1922-count-good-numbers](https://github.com/Jatin-chaurasiya/https-github.com-Jatin-chaurasiya-LeetCode/tree/master/1922-count-good-numbers) |
 | [2235-add-two-integers](https://github.com/Jatin-chaurasiya/https-github.com-Jatin-chaurasiya-LeetCode/tree/master/2235-add-two-integers) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jatin-chaurasiya/https-github.com-Jatin-chaurasiya-LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Jatin-chaurasiya/https-github.com-Jatin-chaurasiya-LeetCode/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/Jatin-chaurasiya/https-github.com-Jatin-chaurasiya-LeetCode/tree/master/0326-power-of-three) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Jatin-chaurasiya/https-github.com-Jatin-chaurasiya-LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1922-count-good-numbers](https://github.com/Jatin-chaurasiya/https-github.com-Jatin-chaurasiya-LeetCode/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
