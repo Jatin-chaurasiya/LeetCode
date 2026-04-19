@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Jatin-chaurasiya/https-github.com-Jatin-chaurasiya-LeetCode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Jatin-chaurasiya/https-github.com-Jatin-chaurasiya-LeetCode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Jatin-chaurasiya/https-github.com-Jatin-chaurasiya-LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Jatin-chaurasiya/https-github.com-Jatin-chaurasiya-LeetCode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Jatin-chaurasiya/https-github.com-Jatin-chaurasiya-LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jatin-chaurasiya/https-github.com-Jatin-chaurasiya-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Jatin-chaurasiya/https-github.com-Jatin-chaurasiya-LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Jatin-chaurasiya/https-github.com-Jatin-chaurasiya-LeetCode/tree/master/0078-subsets) |
 | [0342-power-of-four](https://github.com/Jatin-chaurasiya/https-github.com-Jatin-chaurasiya-LeetCode/tree/master/0342-power-of-four) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Jatin-chaurasiya/https-github.com-Jatin-chaurasiya-LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1009-complement-of-base-10-integer](https://github.com/Jatin-chaurasiya/https-github.com-Jatin-chaurasiya-LeetCode/tree/master/1009-complement-of-base-10-integer) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Jatin-chaurasiya/https-github.com-Jatin-chaurasiya-LeetCode/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/Jatin-chaurasiya/https-github.com-Jatin-chaurasiya-LeetCode/tree/master/0078-subsets) |
 ## Depth-First Search
 |  |
 | ------- |
